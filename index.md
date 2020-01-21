@@ -2,6 +2,10 @@
 
 This page is an index of information I have collected on various technologies, as well as people, places and things, I find interesting.
 
+### Airsoft
+
+[Airsoft](https://patrickaregan.github.io/tech-index/airsoft) is a sport where people shoot plastic BBs at each other with airguns.
+
 ### Ansible
 
 Ansible is a tool for automating deployments and configuration changes.
