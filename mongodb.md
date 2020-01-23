@@ -26,7 +26,7 @@ Once you have stopped the auto start service. Use the following command to start
 
 `>db.products.find()` This will list all the documents in the collection.
 
->db.products.find().pretty()` This formats the output a little more readable.
+`>db.products.find().pretty()` This formats the output a little more readable.
 
 
 
