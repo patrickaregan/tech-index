@@ -1,6 +1,6 @@
 ## Welcome to my Technology Index
 
-This page is an index of information I have collected on various technologies, as well as people, places and things, I find interesting.
+This page is an index of information I have collected on various technologies and things I find interesting.
 
 
 ### Airsoft
