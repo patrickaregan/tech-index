@@ -20,7 +20,7 @@ Enchanted Rock is a giant granite rock in Central Texas and is a bucket list ite
 
 ### MongoDB
 
-[MongoDB](https://github.com/patrickaregan/tech-index/blob/master/mongodb) is a document oriented, NoSQL, database.
+[MongoDB](https://patrickaregan.github.io/tech-index/mongodb) is a document oriented, NoSQL, database.
 
 
 ### Python
