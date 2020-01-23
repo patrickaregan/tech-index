@@ -24,9 +24,9 @@ Once you have stopped the auto start service. Use the following command to start
 
 `db.product.insertOne({name: "Airsoft Electric Rifle", price: 159.99})` This inserts a document in the **product** collection.
 
-`db.products.find()` This will list all the documents in the collection.
+`db.product.find()` This will list all the documents in the collection.
 
-`db.products.find().pretty()` This formats the output a little more readable.
+`db.product.find().pretty()` This formats the output a little more readable.
 
 
 
