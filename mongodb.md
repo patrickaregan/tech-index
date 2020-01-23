@@ -11,22 +11,22 @@ In a Windows command prompt, run `NET START` to see what services are running. I
 
 Once you have stopped the auto start service. Use the following command to start the MongoDB server and specify the db path. Fill in the actual path on your machine.
 
-`>mongod --dbpath "<PATH>\db"`
+`mongod --dbpath "<PATH>\db"`
 
 
 ### Basic Commands
 
-`>show dbs` Three default dbs will show up.
+`show dbs` Three default dbs will show up.
 
-`>use store` This chooses the active database. If **store** is not there it will be created.
+`use store` This chooses the active database. If **store** is not there it will be created.
 
-`>db.product` The text **db** refers to the active database. Currently this is **store**. The text **product** refers to a Collection. If **product** is not there it will be created.
+`db.product` The text **db** refers to the active database. Currently this is **store**. The text **product** refers to a Collection. If **product** is not there it will be created.
 
-`>db.product.insertOne({name: "Airsoft Electric Rifle", price: 159.99})` This inserts a document in the **product** collection.
+`db.product.insertOne({name: "Airsoft Electric Rifle", price: 159.99})` This inserts a document in the **product** collection.
 
-`>db.products.find()` This will list all the documents in the collection.
+`db.products.find()` This will list all the documents in the collection.
 
-`>db.products.find().pretty()` This formats the output a little more readable.
+`db.products.find().pretty()` This formats the output a little more readable.
 
 
 
