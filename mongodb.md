@@ -17,9 +17,11 @@ Once you have stopped the auto start service. Use the following command to start
 ### Basic Commands
 
 `>show dbs`
+
 Three default dbs will show up.
 
 `>use store`
+
 Choose the database to use. If **store** is not there then it will be created.
 
 `>db.product`
@@ -31,7 +33,7 @@ This inserts a document in the **product** collection.
 `>db.products.find()`
 This will list all the documents in the collection.
 
->db.products.find().pretty()
+>db.products.find().pretty()`
 This formats the output a little more readable.
 
 
