@@ -11,7 +11,7 @@ In a Windows command prompt, run `NET START` to see what services are running. I
 
 Once you have stopped the auto start service. Use the following command to start the MongoDB server and specify the db path. Fill in the actual path on your machine.
 
-`mongod --dbpath "<PATH>\db"`
+`mongod --dbpath "<PATH_TO_YOUR_DB_FOLDER>\db"`
 
 
 ### Basic Commands
