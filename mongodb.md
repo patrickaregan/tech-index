@@ -22,11 +22,11 @@ In a separate command prompt from the one you started mongod you can use mongo t
 
 `show dbs` Three default dbs will show up.
 
-`use store` This chooses the active database. If **store** is not there it will be created.
+`use store` This chooses the active database. If **store** does not exist it will be created.
 
-`db.product` The text **db** refers to the active database. Currently this is **store**. The text **product** refers to a Collection. If **product** is not there it will be created.
+`db.product` The text **db** refers to the active database. Currently this is **store**. The text **product** refers to a Collection.
 
-`db.product.insertOne({name: "Some product name", price: 159.99})` This inserts a document in the **product** collection.
+`db.product.insertOne({name: "Some product name", price: 159.99})` This inserts a document in the **product** collection. If **product** does not exist it will be created.
 
 `db.product.find()` This will list all the documents in the collection.
 
