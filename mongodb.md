@@ -22,7 +22,7 @@ Once you have stopped the auto start service. Use the following command to start
 
 `db.product` The text **db** refers to the active database. Currently this is **store**. The text **product** refers to a Collection. If **product** is not there it will be created.
 
-`db.product.insertOne({name: "Airsoft Electric Rifle", price: 159.99})` This inserts a document in the **product** collection.
+`db.product.insertOne({name: "Some product name", price: 159.99})` This inserts a document in the **product** collection.
 
 `db.product.find()` This will list all the documents in the collection.
 
