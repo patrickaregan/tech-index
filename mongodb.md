@@ -13,6 +13,10 @@ Once you have stopped the auto start service. Use the following command to start
 
 `mongod --dbpath "<PATH_TO_YOUR_DB_FOLDER>\db"`
 
+In a separate command prompt from the one you started mongod you can use mongo to connect to the server and run queries.
+
+`mongo`
+
 
 ### Basic Commands
 
