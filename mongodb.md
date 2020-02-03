@@ -33,5 +33,8 @@ In a separate command prompt from the one you started mongod you can use mongo t
 `db.product.find().pretty()` This formats the output a little more readable.
 
 
+### Installing on Ubuntu 19.10
+
+$ `sudo apt update`
 
 
