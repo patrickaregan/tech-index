@@ -33,8 +33,30 @@ In a separate command prompt from the one you started mongod you can use mongo t
 `db.product.find().pretty()` This formats the output a little more readable.
 
 
-### Installing on Ubuntu 19.10
+## Installing on Ubuntu 19.10
 
-$ `sudo apt update`
+`sudo apt update`
+`sudo apt install mongodb`
+`sudo systemctl status mongodb`
+It should show **active (running)**
+
+### To Stop
+
+`sudo systemctl stop mongodb`
+
+### To Start
+
+`sudo systemctl start mongodb`
+
+### To Show Status
+
+`sudo systemctl status mongodb`
+
+### Run Queries
+
+`mongo`
+
+
+
 
 
