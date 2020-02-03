@@ -35,6 +35,8 @@ In a separate command prompt from the one you started mongod you can use mongo t
 
 ## Installing on Ubuntu 19.10
 
+### To Install
+
 `sudo apt update`
 
 `sudo apt install mongodb`
@@ -55,7 +57,7 @@ It should show **active (running)**
 
 `sudo systemctl status mongodb`
 
-### Run Queries
+### To Open a Shell
 
 `mongo`
 
