@@ -16,3 +16,14 @@ Fill in the Hangul below!
 |  | `yoo` as in v**iew** |
 |  | `uh` as in br**oo**k |
 |  | `ee` as in m**ee**k |
+
+
+## Words made up of vowels
+
+Fill in the Hangul below!
+
+| Hangul | Pronunciation | Word |
+| ---------- | ----------------- | ------------------ |
+|  | `ah` `ee` | Child |
+|  | `oh` `ee` | Cucumber |
+|  | `oo` `yoo` | Milk |
