@@ -17,6 +17,10 @@ Ansible is a tool for automating deployments and configuration changes.
 
 Enchanted Rock is a giant granite rock in Central Texas and is a bucket list item if you live in Austin, Texas. Check it out on the Texas Parks and Wildlife website: [Enchanted Rock](https://tpwd.texas.gov/state-parks/enchanted-rock).
 
+## Korean
+
+Learning the Korean language involves learning the alphabet. [ZKorean](https://zkorean.com/hangul/appearance) is a good site showing the aperance and sound of Hangul, the Korean language.
+
 
 ### MongoDB
 
