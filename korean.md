@@ -27,3 +27,36 @@ Fill in the Hangul below!
 |  | `ah` `ee` | Child |
 |  | `oh` `ee` | Cucumber |
 |  | `oo` `yoo` | Milk |
+
+
+## Consonants
+
+Fill in the Hangul below!
+
+| Hangul | Pronunciation |
+| ---------- | ----------------- |
+|  | `k`  as in **c**oo |
+|  | `n` as in **n**ew |
+|  | `t` as in **t**ew|
+|  | `r` as in **l**eul |
+|  | `m` as in **m**uh |
+|  | `b` as in **b**uh |
+|  | `s` as in **s**oo |
+|  | silent as in "eung" |
+|  | `j` as in **j**oo or "chew" |
+|  | `k` as in **k**uh |
+|  | `t` as in **t**uh |
+|  | `p` as in **p**uh |
+|  | `h` as in **h**uh |
+
+## Words with consonants and vowels
+
+Fill in the Hangul below!
+
+| Hangul | Pronunciation | Word |
+| ---------- | ----------------- | ------------------ |
+|  | `ga` `su` as in "ka su" | Singer |
+|  | `gi` `cha` as in "kee cha" | Train |
+|  | `na` `bi` as in "na bee" | Butterfly |
+|  | `nu` `na` as in "new na" | Older Sister (for a boy) |
+|  | `da` `ri` as in "tah lee" | Bridge |
