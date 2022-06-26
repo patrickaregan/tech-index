@@ -7,6 +7,6 @@
 
 ### Usage
 
-Click [here](https://github.com/patrickaregan/tech-index) to open the index.
+Click [here](https://patrickaregan.github.io/tech-index/) to open the index.
 
 
