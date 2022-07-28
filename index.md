@@ -7,6 +7,9 @@ This page is an index of information I have collected on various technologies an
 
 [Airsoft](https://patrickaregan.github.io/tech-index/airsoft) is a sport where people shoot plastic BBs at each other with airguns.
 
+### Angular
+
+[Angular](https://patrickaregan.github.io/tech-index/angular) is a framework for building web applications using HTML and TypeScript.
 
 ### Ansible
 
