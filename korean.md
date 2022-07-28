@@ -60,3 +60,15 @@ Fill in the Hangul below!
 |  | `na` `bi` as in "na bee" | Butterfly |
 |  | `nu` `na` as in "new na" | Older Sister (for a boy) |
 |  | `da` `ri` as in "tah lee" | Bridge |
+|  | `gu` `du` as in "koo doo" | Heels |
+
+## Words from Class on 2022-06-22
+
+Fill in the Hangul below!
+
+| Hangul | Pronunciation | Word |
+| ---------- | ----------------- | ------------------ |
+|  | `la` `di` `oh` as in "lah dee oh" | Radio |
+|  | `o` `ri` as in "oh ri" | Duck |
+|  | `meo` `ri` as in "maw ri" | Hair or Head |
+|  | `mo` `gi` as in "mg gee" | Mosquito |
