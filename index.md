@@ -1,4 +1,4 @@
-## Welcome to my Technology Index
+## Welcome to my Technology and Information Index
 
 This page is an index of information I have collected on various technologies and things I find interesting.
 
@@ -19,6 +19,13 @@ Ansible is a tool for automating deployments and configuration changes.
 ### Enchanted Rock
 
 Enchanted Rock is a giant granite rock in Central Texas and is a bucket list item if you live in Austin, Texas. Check it out on the Texas Parks and Wildlife website: [Enchanted Rock](https://tpwd.texas.gov/state-parks/enchanted-rock).
+
+
+### Filming Locations
+This is a list of locations from movies or TV shows I like and would like to visit.
+- Paddy's Pub: From the TV comedy series, It's Always Sunny in Philadelphia, the pub is located in Philadelphia, but the building itself is actually located at 544 Mateo St. in the downtown Los Angeles Art's District.
+- Workaholics house: From the TV comedy series, Workaholics, the house where Adam, Blake and Anders live is at 15020 Hamlin Street in Van Nuys, CA.
+
 
 ### Korean
 
