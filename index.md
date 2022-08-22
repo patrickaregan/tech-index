@@ -25,6 +25,7 @@ Enchanted Rock is a giant granite rock in Central Texas and is a bucket list ite
 This is a list of locations from movies or TV shows I like and would like to visit.
 - Paddy's Pub: From the TV comedy series, It's Always Sunny in Philadelphia, the pub is located in Philadelphia, but the building itself is actually located at **544 Mateo St.** in the downtown Los Angeles Art's District.
 - Workaholics house: From the TV comedy series, Workaholics, the house where Adam, Blake and Anders live is at **15020 Hamlin Street, Van Nuys, CA**.
+- Harry Bosch's house: From the TV drama series, Bosch, the house where Harry Bosch lives is at **1870 Blue Heights Dr, Los Angeles, CA**.
 
 
 ### Korean
