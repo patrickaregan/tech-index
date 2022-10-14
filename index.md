@@ -15,6 +15,26 @@ This page is an index of information I have collected on various technologies an
 
 Ansible is a tool for automating deployments and configuration changes.
 
+### Camping
+
+I have plans to purchase an Aliner Ranger 10 travel trailer and take it around the country. Each place I stop I will get a sticker and put it on my camper. I created a channel on YouTube to share videos from my trips.
+
+My channel is called "Calico Camper" because the stickers I get from each place will make my camper look like a calico cat's fur. I also have two calico cats, Stella and Regina.
+
+Trip ideas:
+
+- Joshua Tree National Park
+    * Stop 1: San Angelo KOA in Texas (3.5 hours from Austin)
+    * Stop 2: Carlsbad KOA in New Mexico (4.5 hours from San Angelo KOA)
+    * Stop 3: Wilcox/Cochise KOA in Arizona (6.5 hours from Carlsbad KOA)
+    * Stop 4: Mesa/Apache Junction KOA in Arizona (3 hours from Wilcox KOA)
+    * Stop 5: Palm Springs/Joshua Tree KOA in California (5 hours from from Mesa KOA)
+    * Stop 6: Mesa/Apache Junction KOA in Arizona
+    * Stop 7: Wilcox/Cochise KOA in Arizona
+    * Stop 8
+- Florida
+- New York
+- Portland, Oregan
 
 ### Enchanted Rock
 
