@@ -31,7 +31,6 @@ Trip ideas:
     * Stop 5: Palm Springs/Joshua Tree KOA in California (5 hours from from Mesa KOA)
     * Stop 6: Mesa/Apache Junction KOA in Arizona
     * Stop 7: Wilcox/Cochise KOA in Arizona
-    * Stop 8
 - Florida
 - New York
 - Portland, Oregan
