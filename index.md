@@ -48,6 +48,12 @@ This is a list of locations from movies or TV shows I like and would like to vis
 - [53 essential L.A. filming locations](https://www.latimes.com/entertainment-arts/list/53-essential-l-a-filming-locations-how-many-have-you-visited)
 - [Ranking LA's 50 Most Iconic Filming Locations](https://giggster.com/blog/famous-los-angeles-filming-locations/)
 
+
+### GoPro
+
+- [GoPro Hero 10: The Complete Beginners Guide](https://www.youtube.com/watch?v=wDXV1lW5rSE)
+
+
 ### Korean
 
 Learning the Korean language involves learning the alphabet. [ZKorean](https://zkorean.com/hangul/appearance) is a good site showing the aperance and sound of Hangul, the Korean language. And this is my own [fill in the blank worksheet](https://patrickaregan.github.io/tech-index/korean) showing my progress.
