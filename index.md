@@ -24,13 +24,7 @@ My channel is called "Calico Camper" because the stickers I get from each place 
 Trip ideas:
 
 - Joshua Tree National Park
-    * Stop 1: San Angelo KOA in Texas (3.5 hours from Austin)
-    * Stop 2: Carlsbad KOA in New Mexico (4.5 hours from San Angelo KOA)
-    * Stop 3: Wilcox/Cochise KOA in Arizona (6.5 hours from Carlsbad KOA)
-    * Stop 4: Mesa/Apache Junction KOA in Arizona (3 hours from Wilcox KOA)
-    * Stop 5: Palm Springs/Joshua Tree KOA in California (5 hours from from Mesa KOA)
-    * Stop 6: Mesa/Apache Junction KOA in Arizona
-    * Stop 7: Wilcox/Cochise KOA in Arizona
+- Ruidoso, NM
 - Florida
 - New York
 - Portland, Oregan
