@@ -1,4 +1,4 @@
-## Welcome to my Technology and Information Index
+## My Technology and Information Index
 
 This page is an index of information I have collected on various technologies and things I find interesting.
 
