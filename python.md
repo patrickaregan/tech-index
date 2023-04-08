@@ -28,3 +28,5 @@ Note: Python must already be installed.
 7. Run: `python -m pip install --upgrade pip`
 8. If you want to install django:
 9. Run: `pip install django`
+10. To deactivate the virtual environment:
+11. Run `deactivate` from the command prompt where you activated it, or just close the command window and that will deactivate it also.
