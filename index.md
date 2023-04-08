@@ -7,27 +7,21 @@ This page is an index of information I have collected on various technologies an
 
 [Airsoft](https://patrickaregan.github.io/tech-index/airsoft) is a sport where people shoot plastic BBs at each other with airguns.
 
+
 ### Angular
 
 [Angular](https://patrickaregan.github.io/tech-index/angular) is a framework for building web applications using HTML and TypeScript.
+
 
 ### Ansible
 
 Ansible is a tool for automating deployments and configuration changes.
 
+
 ### Camping
 
-I have plans to purchase an Aliner Ranger 10 travel trailer and take it around the country. Each place I stop I will get a sticker and put it on my camper. I created a channel on YouTube to share videos from my trips.
+I caught the [Camping](https://patrickaregan.github.io/tech-index/camping) bug during the pandemic watching a lot of camping videos. I tried tent camping, then car camping, and finally I purchased a travel trailer.
 
-My channel is called "Calico Camper" because the stickers I get from each place will make my camper look like a calico cat's fur. I also have two calico cats, Stella and Regina.
-
-Trip ideas:
-
-- Joshua Tree National Park
-- Ruidoso, NM
-- Florida
-- New York
-- Portland, Oregan
 
 ### Enchanted Rock
 
