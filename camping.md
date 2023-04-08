@@ -10,7 +10,7 @@ I have a 2022 Aliner Ranger 10 travel trailer.  It weighs 1445 lbs and the tongu
 
 ### Trips
 
-1. Inks Lake State Park (Nov 10, 2022)
+1. Inks Lake State Park, Burnet, TX (Nov 10, 2022)
 2. Buck Acres RV Park, Lake Conroe, TX (Nov 22, 2022)
 3. Buck Acres RV Park, Lake Conroe, TX (Nov 26, 2022)
 4. On the Beach RV Park, Port Aransas, TX (Dec 29-30, 2022)
