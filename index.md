@@ -60,7 +60,7 @@ Learning the Korean language involves learning the alphabet. [ZKorean](https://z
 
 ### Python
 
-Python is a programming language.
+[Python](https://patrickaregan.github.io/tech-index/python) is a really cool programming language.
 
 
 
