@@ -20,7 +20,7 @@ To create a virtual environment on Windows:
 Note: Python must already be installed.
 
 1. Navigate to your project directory in a command window.
-2. Run: `python -m venv <VirtualEnvironmentName>`
+2. Run: `python -m venv <virtual_environment_name>`
 3. Activate the virtual environment:
 4. Navigate to the virtual enviornment directory.
 5. Run: `Scripts\activate`
@@ -30,3 +30,13 @@ Note: Python must already be installed.
 9. Run: `pip install django`
 10. To deactivate the virtual environment:
 11. Run `Scripts\deactivate` from the command prompt where you activated it, or just close the command window and that will deactivate it also.
+
+
+### Django
+
+Note: These instructions assume you have created a virtual environment and installed django as mentioned in the Virtual Environments section above.
+
+1. To start a django project make sure you activate your virtual environment and are in the project directory. Run: `django-admin startproject <project_name>`
+
+
+
