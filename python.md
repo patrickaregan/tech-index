@@ -33,6 +33,9 @@ Django is a python web framework that is robust, easy to use and secure. Many po
 3. To start a django project run `django-admin startproject <project_name>`
 4. To start the development server, navigate to the `<project_name>` directory then run `python manage.py runserver`
 5. Open a web browser and navigate to `http://localhost:8000/`
+6. To start an app run `django-admin startapp <app_name>`.
+7. Afer creating the app, navigate to the app directory and create folders for `templates` and for `static` files.
+
 
 
 
