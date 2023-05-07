@@ -3,12 +3,17 @@
 When I retire I plan to travel the country in my travel trailer visiting national parks and other interesting places. I have a small trailer now but may upgrade to a bigger one someday. If I get a bigger one I'll bring my two cats, Regina and Stella, with me so they can see the outdoors too.
 
 
-### My Camper
+## My Camper
 
 I have a 2022 Aliner Ranger 10 travel trailer.  It weighs 1445 lbs and the tongue weight is 160 lbs. It is about 5 ft tall in travel mode so it fits easily in my garage and has a low center of gravity when travelling.
 
 
-### Trips
+## Camping Checklist
+
+This is a checklist of items to bring based on what you want to do.
+
+
+## Trips
 
 1. Inks Lake State Park, Burnet, TX (Nov 10, 2022)
 2. Buck Acres RV Park, Lake Conroe, TX (Nov 22, 2022)

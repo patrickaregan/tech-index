@@ -3,7 +3,7 @@
 This is a list of locations from movies or TV shows I like and would like to visit someday.
 
 
-### Locations from Film and Television
+## Locations from Film and Television
 
 1. Paddy's Pub: From the TV comedy series, It's Always Sunny in Philadelphia, the pub is located in Philadelphia, but the building itself is actually located at **544 Mateo St.** in the downtown Los Angeles Art's District.
 2. Workaholics house: From the TV comedy series, Workaholics, the house where Adam, Blake and Anders live is at **15020 Hamlin Street, Van Nuys, CA**.
@@ -14,7 +14,7 @@ This is a list of locations from movies or TV shows I like and would like to vis
 
 
 
-### Locations from Popular Culture
+## Locations from Popular Culture
 
 1. 1 West 72nd Street, Upper West Side, Manhattan, NY: The Dakota is the apartment building John Lennon lived in when he was killed in 1980. (visited in 2021)
 

@@ -3,7 +3,7 @@
 Python is a programming language that is easy to learn and use. It is interpreted, instead of compiled, so you run your programs through the python interpreter or executable. Follow the instructions below to start using Python.
 
 
-### Installing Python
+## Installing Python
 
 1. Open a browser and navigate to: https://www.python.org/downloads/
 2. Download a version of Python for your operating system.
@@ -13,7 +13,7 @@ Python is a programming language that is easy to learn and use. It is interprete
 6. You should see a message about the version of python installed and the python prompt: `>>>`.
 
 
-### Virtual Environments
+## Virtual Environments
 
 Python virtual environments are a good way to isolate the versions of python and django you use for your projects from your main installation. They are not required but are a good idea if you want to try different versions of python and django on different projects. Follow the instructions below to create a python virtual environment on Windows:
 
@@ -24,7 +24,7 @@ Python virtual environments are a good way to isolate the versions of python and
 5. To deactivate the virtual environment run `Scripts\deactivate` or just close the command window.
 
 
-### Django
+## Django
 
 Django is a python web framework that is robust, easy to use and secure. Many popular websites use django like Instagram, Spotify, and Youtube. Follow the instructions below to install it:
 
