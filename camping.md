@@ -10,7 +10,7 @@ I have a 2022 Aliner Ranger 10 travel trailer.  It weighs 1445 lbs and the tongu
 
 ## Camping Checklist
 
-This is a checklist of items to bring based on what you want to do.
+This is a [checklist](https://patrickaregan.github.io/tech-index/camping/checklist) of items to bring based on what you want to do.
 
 
 ## Trips
