@@ -20,7 +20,7 @@ Ansible is a tool for automating deployments and configuration changes.
 
 ## Application Development
 
-It is worthwile to plan and design your application before building it. The requirements may change during the build phase but it will be easier if you start with a design plan. Here are the steps to create a design plan.
+It is worthwile to plan and design your application before building it. The requirements may change during the build phase but it will be easier if you start with a design plan. Here are the steps to create a [design plan](https://patrickaregan.github.io/tech-index/appdevelopment).
 
 
 ## Camping
