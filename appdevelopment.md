@@ -5,21 +5,29 @@ When developing an application start out with a design plan.
 
 ## Design Plan
 
+### High Level Outline
+
 1. Application Objectives
 2. Data Model
 3. User Experiences
 4. Application/Data Flows
 5. Security
 
+### Detailed Outline
 
-## Application Objectives
+Define the following:
 
-State the business problem you are trying to solve. Ask questions like:
+- Business Problem (Statement)
+- Desired Outcomes (Bullet List)
+- Stakeholders (People who are interested and will benefit)
+- Personas (Personas and Privileges)
+- Inputs (Data Sources)
+- Outputs (Email, Visualizations, etc...)
+- Processes
+- Data Model (Tables and fields)
 
-- We need to do this
-- We should track this
-- We should respond to this
 
-List all the stakeholders so you can build personas.
+
+
 
 
