@@ -18,6 +18,11 @@ This page is an index of information I have collected on various technologies an
 Ansible is a tool for automating deployments and configuration changes.
 
 
+## Application Development
+
+It is worthwile to plan and design your application before building it. The requirements may change during the build phase but it will be easier if you start with a design plan. Here are the steps to create a design plan.
+
+
 ## Camping
 
 I caught the [Camping](https://patrickaregan.github.io/tech-index/camping) bug during the pandemic watching a lot of camping videos. I tried tent camping, then car camping, and finally I purchased a travel trailer.
